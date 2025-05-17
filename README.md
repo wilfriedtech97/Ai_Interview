@@ -7,3 +7,9 @@ The AI Interview Preparation System creatively integrates Vapi's voice interface
 
 ![Screenshot 2025-05-04 212648](https://github.com/user-attachments/assets/c0a096ed-4afb-4d7f-ba61-2c863566314f)
 
+I've built an incredible platform for AI builders—Vapi's seamless voice capabilities combined with Gemini's conversational intelligence unlocked a powerful way to create realistic, voice-driven interview simulations. The onboarding was smooth, and the documentation was clear, which made integration straightforward even for advanced use cases.
+
+One suggestion would be to enhance multi-turn memory across longer conversations and improve custom persona configuration to allow for deeper tailoring of interviewer styles or industries. Additionally, a dashboard with analytics—like tracking user performance or identifying common response weaknesses—would add great value for both users and developers building coaching tools.
+
+Overall, I’m truly impressed with the flexibility, speed, and stability of the tools. This project wouldn’t have been possible without such an intuitive and powerful platform!
+
