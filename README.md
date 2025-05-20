@@ -1,3 +1,31 @@
+Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Prepwise is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
+
+⚙️ Tech Stack
+Next.js
+Firebase
+Tailwind CSS
+Vapi AI
+shadcn/ui
+Google Gemeni
+Zod
+🔋 Features
+👉 Authentication: Sign Up and Sign In using password/email authentication handled by Firebase.
+
+👉 Create Interviews: Easily generate job interviews with help of Vapi voice assistants and Google Gemini.
+
+👉 Get feedback from AI: Take the interview with AI voice agent, and receive instant feedback based on your conversation.
+
+👉 Modern UI/UX: A sleek and user-friendly interface designed for a great experience.
+
+👉 Interview Page: Conduct AI-driven interviews with real-time feedback and detailed transcripts.
+
+👉 Dashboard: Manage and track all your interviews with easy navigation.
+
+👉 Responsiveness: Fully responsive design that works seamlessly across devices.
+
+and many more, including code architecture and reusability
+
+
 The AI Interview Preparation System creatively integrates Vapi's voice interface with Gemini's advanced language model to simulate realistic, real-time mock interviews. This voice-based interaction mirrors actual interview dynamics, offering users an immersive and personalized prep experience. Its real-world applicability is clear: it empowers job seekers to practice interviews for various roles (tech, business, etc.) anytime, anywhere, improving confidence and performance. Technically, it combines real-time speech-to-text, LLM-driven adaptive questioning, context-aware feedback, and dynamic scenario generation—making it not only innovative but also technically robust and highly scalable for real-world deployment.
 ![Screenshot 2025-05-04 212757](https://github.com/user-attachments/assets/65608a8a-2628-4d62-a405-5356f9a1d5f4)
 
