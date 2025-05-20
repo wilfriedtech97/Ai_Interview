@@ -8,6 +8,8 @@ Vapi AI
 shadcn/ui
 Google Gemeni
 Zod
+
+
 🔋 Features
 👉 Authentication: Sign Up and Sign In using password/email authentication handled by Firebase.
 
